@@ -1,0 +1,7 @@
+新規でリポジトリを作るとき
+git remote add origin https://github.com/{ユーザー名}/{リポジトリ名}.git
+git remote -v
+
+git remote add origin https://github.com/UetaMasaki/test-3matchpuzzle.git
+git branch -M main
+git push -u origin main
